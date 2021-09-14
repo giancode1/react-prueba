@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          GC PRUEBA VERCEL 1
+          GC PRUEBA VERCEL 2
         </p>
         <a
           className="App-link"
